@@ -14,13 +14,15 @@
 
 ## 🧠 About
 
-OpsCore HR was built at **Sri City Hackathon 2024** as a full-stack business 
+OpsCore HR is a full-stack business 
 operations platform. It automates core HR workflows — managing employee records, 
 department assignments, role-based access control, and delivers live operational 
 KPIs to management on demand.
 
 Originally architected with **Java, Spring Boot, and MySQL**, this is a modern 
 rebuild using React, TypeScript, and Supabase.
+
+
 
 ## ✨ Features
 
