@@ -10,7 +10,7 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind-CSS-teal?logo=tailwindcss)
 
 ## 🚀 Live Demo
-**[View Live App](https://opscore-hr.vercel.app/login)**
+**[View Live App](https://opscore-hr.vercel.app/login)** or use the link in the about section
 
 > Test Username - admin@opscore.com
 > Test Password - Admin@123
