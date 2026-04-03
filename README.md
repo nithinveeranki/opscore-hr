@@ -11,6 +11,8 @@
 
 ## 🚀 Live Demo
 **[View Live App](#)** ← Update after deployment
+Test Username - admin@opscore.com
+Test Password - Admin@123
 
 ## 🧠 About
 
